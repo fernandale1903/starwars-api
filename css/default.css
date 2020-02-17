@@ -1,0 +1,17 @@
+body{
+	font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.sinb-title{
+	border: 0;
+	letter-spacing: 1.9px;
+	font-size: 30px;
+	width: 300pt;
+}
+.sinb{
+	border: 0;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.dark{
+	background-color: black;
+}

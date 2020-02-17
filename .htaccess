@@ -1,0 +1,5 @@
+RewriteEngine ON
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+Header set Access-Control-Allow-Origin 'origin-list'
